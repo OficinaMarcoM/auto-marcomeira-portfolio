@@ -138,7 +138,7 @@ sections:
     quote: |
       Marco Meira - 14418
     name: Johnna Doe
-    title: Product Marketing Manager at Acme
+    title: ''
     colors: colors-f
     elementId: ''
     styles:
