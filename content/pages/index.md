@@ -106,7 +106,7 @@ sections:
     showDate: false
     showDescription: false
     showFeaturedImage: false
-    showReadMoreLink: false
+    showReadMoreLink: true
     variant: variant-b
     projects:
       - content/pages/projects/project-one.md
