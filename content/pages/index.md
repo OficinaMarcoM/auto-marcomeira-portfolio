@@ -67,7 +67,7 @@ sections:
         label: Edição de Vídeo
         url: ''
       - type: Label
-        label: Next.js
+        label: Fotografia
         url: ''
       - type: Label
         label: Netlify
