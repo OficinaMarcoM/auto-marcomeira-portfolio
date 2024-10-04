@@ -24,7 +24,7 @@ media:
   aspectRatio: '16:9'
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/XTdt8a.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
