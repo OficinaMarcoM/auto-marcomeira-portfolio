@@ -135,8 +135,9 @@ sections:
         justifyContent: flex-end
     subtitle: Projetos
   - type: QuoteSection
-    quote: |
-      Marco Meira - 14418
+    quote: |+
+      ### Marco Meira - 14418
+
     name: Marco Meira - 14418
     title: ''
     colors: colors-f
