@@ -10,7 +10,7 @@ description: >-
   most of the time.
 featuredImage:
   type: ImageBlock
-  url: /images/Captura de ecrã 2024-10-04 153024.png
+  url: /images/Captura_de_ecrã_2024-10-04_163037-removebg-preview.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
