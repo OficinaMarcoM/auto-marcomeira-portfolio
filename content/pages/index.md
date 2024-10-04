@@ -18,10 +18,9 @@ sections:
     title: Marco Meira
     subtitle: >-
       Sou o Marco Meira,tenho 17 anos e vivo em Vila Nova De Famalicão.Sou
-      apaixonado por tudo oque envolva hardware.Gosto muito de
-      fotografiadesportiva e de fotografiadocumental. Tenho algumaexperiencia na
-      áreada fo-tografia, mas gosto sem-pre de aprender mais e termais
-      experiência.
+      apaixonado por tudo oque envolva hardware.Gosto muito de reparar sistemas
+      informaticos. Tenho alguma experiencia na áreada de hardware, mas gosto
+      sem-pre de aprender mais e ter mais experiência.
     styles:
       self:
         height: auto
