@@ -73,7 +73,7 @@ sections:
         label: Hardware
         url: ''
       - type: Label
-        label: Pancakes
+        label: ''
         url: ''
       - type: Label
         label: C++
