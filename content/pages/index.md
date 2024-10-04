@@ -50,7 +50,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/1727981143059.jpg
+      url: /images/1727981143059-removebg-preview.png
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
