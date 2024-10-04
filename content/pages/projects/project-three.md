@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Criação de um Stand Online em WordPress
 colors: colors-a
-date: '0002-09-24'
+date: '2024-09-24'
 client: Awesome client
 description: O aluno criou um site sobre venda de veículos utilizando o wordpress
 socialImage: /images/Captura de ecrã 2024-10-04 143700.png
