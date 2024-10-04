@@ -17,8 +17,7 @@ featuredImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: >-
-    file:///C:/Users/14418/Downloads/Grava%C3%A7%C3%A3o%20de%20tela%201%20(online-video-cutter.com).mp4
+  url: ''
   elementId: ''
   autoplay: false
   loop: false
