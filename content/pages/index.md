@@ -103,7 +103,7 @@ sections:
     type: FeaturedProjectsSection
     elementId: ''
     actions: []
-    showDate: true
+    showDate: false
     showDescription: false
     showFeaturedImage: true
     showReadMoreLink: true
