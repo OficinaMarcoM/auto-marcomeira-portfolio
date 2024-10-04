@@ -79,7 +79,7 @@ sections:
         label: CSS
         url: ''
       - type: Label
-        label: arduino
+        label: Arduino
         url: ''
     colors: colors-f
     elementId: ''
