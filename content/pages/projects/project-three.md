@@ -15,7 +15,7 @@ media:
 socialImage: /images/Captura de ecrã 2024-10-04 143700.png
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Captura de ecrã 2024-10-04 143700.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
