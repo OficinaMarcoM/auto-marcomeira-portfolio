@@ -76,7 +76,7 @@ sections:
         label: ''
         url: ''
       - type: Label
-        label: C++
+        label: CSS
         url: ''
       - type: Label
         label: Swift
