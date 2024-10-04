@@ -64,7 +64,7 @@ sections:
         label: C++
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Edição de Vídeo
         url: ''
       - type: Label
         label: Next.js
