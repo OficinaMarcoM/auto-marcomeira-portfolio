@@ -55,7 +55,7 @@ sections:
     text: ''
   - type: LabelsSection
     title: Capacidades
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: HTML
