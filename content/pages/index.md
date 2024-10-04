@@ -16,7 +16,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Marco Meira
-    subtitle: 'O meu nome é '
+    subtitle: >-
+      Sou o Marco Meira,tenho 17 anos e vivo em Vila Nova De Famalicão.Sou
+      apaixonado por tudo oque envolva hardware.Gosto muito de
+      fotografiadesportiva e de fotografiadocumental. Tenho algumaexperiencia na
+      áreada fo-tografia, mas gosto sem-pre de aprender mais e termais
+      experiência.
     styles:
       self:
         height: auto
