@@ -138,7 +138,7 @@ sections:
     quote: |+
       ### Marco Meira - 14418
 
-    name: Marco Meira - 14418
+    name: ''
     title: ''
     colors: colors-f
     elementId: ''
