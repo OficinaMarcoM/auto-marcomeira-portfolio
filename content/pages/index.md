@@ -16,11 +16,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Marco Meira
-    subtitle: >-
-      Sou o Marco Meira, tenho 17 anos e vivo em Vila Nova De Famalicão. Sou
-      apaixonado por tudo oque envolva hardware. Gosto muito de reparar sistemas
-      informáticos. Tenho alguma experiencia na areada de hardware, mas gosto
-      sempre de aprender mais e ter mais experiência.
+    subtitle: ola
     styles:
       self:
         height: auto
