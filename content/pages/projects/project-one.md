@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Criação de uma APP utilizando o figma
-colors: colors-a
+colors: colors-d
 date: '2021-10-15'
 client: Awesome client
 description: >-
