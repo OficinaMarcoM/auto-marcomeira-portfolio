@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/XTdt8a.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -55,7 +55,7 @@ sections:
     text: ''
   - type: LabelsSection
     title: Capacidades
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: HTML
