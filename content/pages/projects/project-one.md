@@ -8,10 +8,6 @@ description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
   because I worked with an entire team :) but they definitely followed my lead
   most of the time.
-media:
-  type: ImageBlock
-  altText: Project image
-  url: /images/bg2.jpg
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 153024.png
