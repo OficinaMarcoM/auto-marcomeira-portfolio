@@ -11,6 +11,7 @@ description: >-
 media:
   type: ImageBlock
   altText: Project image
+  url: /images/bg2.jpg
 featuredImage:
   type: ImageBlock
   url: /images/Captura de ecrã 2024-10-04 153024.png
