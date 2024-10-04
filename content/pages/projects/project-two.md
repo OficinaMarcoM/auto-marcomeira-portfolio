@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Criação de uma loja online em WordPress
 colors: colors-a
-date: '2021-11-17'
+date: '0020-11-17'
 client: Awesome client
 description: O aluno criou um site sobre venda de roupa utilizando o wordpress
 featuredImage:
