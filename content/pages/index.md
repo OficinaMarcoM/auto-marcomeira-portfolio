@@ -4,9 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/HD wallpaper_ simple background, blue, gradient, backgrounds,
-    abstract, no people.jfif
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
