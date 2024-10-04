@@ -137,7 +137,7 @@ sections:
   - type: QuoteSection
     quote: |
       Marco Meira - 14418
-    name: ''
+    name: Marco Meira - 14418
     title: ''
     colors: colors-f
     elementId: ''
