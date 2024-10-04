@@ -105,8 +105,8 @@ sections:
     actions: []
     showDate: false
     showDescription: false
-    showFeaturedImage: true
-    showReadMoreLink: true
+    showFeaturedImage: false
+    showReadMoreLink: false
     variant: variant-b
     projects:
       - content/pages/projects/project-one.md
