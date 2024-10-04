@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Criação de um Stand Online em '
+title: Criação de um Stand Online em WordPress
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
