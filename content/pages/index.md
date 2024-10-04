@@ -70,7 +70,7 @@ sections:
         label: Fotografia
         url: ''
       - type: Label
-        label: Netlify
+        label: Hardware
         url: ''
       - type: Label
         label: Pancakes
