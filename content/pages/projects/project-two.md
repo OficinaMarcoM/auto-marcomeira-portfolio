@@ -1,18 +1,17 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Criação de uma loja online em WordPress
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+description: O aluno criou um site sobre venda de roupa utilizando o wordpress
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-04 145003.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Captura de ecrã 2024-10-04 143700.png
   altText: Project image
 ---
 
