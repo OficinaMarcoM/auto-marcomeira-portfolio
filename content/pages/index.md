@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/basic-01.jpg
+  url: /images/XTdt8a.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
