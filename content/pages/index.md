@@ -16,7 +16,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Marco Meira
-    subtitle: ola
+    subtitle: Olá
     styles:
       self:
         height: auto
