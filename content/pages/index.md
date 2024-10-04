@@ -105,7 +105,7 @@ sections:
     actions: []
     showDate: false
     showDescription: false
-    showFeaturedImage: false
+    showFeaturedImage: true
     showReadMoreLink: true
     variant: variant-b
     projects:
