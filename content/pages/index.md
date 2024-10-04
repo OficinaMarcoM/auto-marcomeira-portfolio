@@ -137,7 +137,7 @@ sections:
   - type: QuoteSection
     quote: |
       Marco Meira - 14418
-    name: Johnna Doe
+    name: ''
     title: ''
     colors: colors-f
     elementId: ''
