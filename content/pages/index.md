@@ -136,7 +136,7 @@ sections:
     subtitle: Projetos
   - type: QuoteSection
     quote: |+
-      ### Marco Meira - 14418
+      ###### Marco Meira - 14418
 
     name: ''
     title: ''
