@@ -10,7 +10,7 @@ description: >-
   most of the time.
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Captura de ecrã 2024-10-04 143700.png
   altText: Project image
 socialImage: /images/Captura de ecrã 2024-10-04 143700.png
 ---
